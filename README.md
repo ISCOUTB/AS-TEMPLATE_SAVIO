@@ -2,7 +2,7 @@
 
 Este documento ofrece algunas recomendaciones clave para mejorar la plantilla institucional de una organización, con el fin de optimizar su diseño, usabilidad y funcionalidad.
 
-## Estrategias clave:
+## Estrategias claves:
 
 ### 1. Diseño Visual Atractivo
 - Uso coherente de colores y tipografías institucionales.
